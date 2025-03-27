@@ -1,10 +1,13 @@
 # Cryptography---19CS412-classical-techqniques
 
 
----------------------------
 
 # Hill Cipher
 Hill Cipher using with different key values
+
+**Name : Jackson Raj A**
+**Reg no : 212223040071**
+**Date : 27-03-2025**
 
 # AIM:
 
@@ -123,7 +126,5 @@ Simulating Hill Cipher
 ![image](https://github.com/user-attachments/assets/39d653eb-34fa-4a3b-8ea5-eab5df452ebc)
 
 
-Input Message : Jackson
-Padded Message : SECURITYLABORATORY Encrypted Message : EACSDKLCAEFQDUKSXU Decrypted Message : SECURITYLABORATORY
 ## RESULT:
 The program is executed successfully
